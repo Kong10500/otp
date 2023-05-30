@@ -55,8 +55,6 @@ Bot features ☑️
 
 Works for countries : Worldwide
 
-Languages : English - French - Spanish - Italy 
-
 Custom Script : YES ☑️
 
 Works for all ☑️
